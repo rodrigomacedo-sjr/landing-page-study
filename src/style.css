@@ -41,3 +41,65 @@ body {
 .header-links li {
     margin-left: 0;
 }
+
+a {
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F9FAF8;
+}
+
+/* First section */
+.first-section {
+    background-color: #1F2937;
+    color: #F9FAF8;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 8%;
+}
+
+.first-section h1 {
+    font-size: 48px;    
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+.first-section p {
+    margin: 0;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.left-portion, .image {
+    box-sizing: border-box;
+
+    width: 40%;
+    flex: auto;
+}
+
+.left-portion {
+    margin-right: 5%;
+}
+
+.image {
+    background-color: gray;
+    padding: 10% 10%;
+}
+
+.sign-up-1 {
+    background-color: #3882F6;
+    border: none;
+    border-radius: 10px;
+
+    padding: 1% 5%;
+    margin: 2% 0;
+
+    font-size: 120%;
+    font-weight: bold;
+    color: #F9FAF8;
+}
