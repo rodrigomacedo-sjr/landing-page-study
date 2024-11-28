@@ -237,3 +237,14 @@ a:hover {
 .texts p {
     margin: 0;
 }
+
+/* Footer */
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+
+    padding: 2%;
+
+    display: flex;
+    justify-content: center;
+}
