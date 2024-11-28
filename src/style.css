@@ -104,6 +104,10 @@ a:hover {
     color: #F9FAF8;
 }
 
+.sign-up-1:hover {
+    background-color: #4286FF;
+}
+
 /* Second section */
 .second-section {
     display: flex;
@@ -125,6 +129,9 @@ a:hover {
     gap: 5%;
 
     width: 100%;
+
+    margin-top: 2%;
+    margin-bottom: 10%;
 }
 
 .card {
@@ -138,7 +145,7 @@ a:hover {
     flex: 1 0 1;
 
     text-align: center;
-    color: #3882F6;
+    color: #1F2937;
 }
 
 .small-image {
@@ -147,4 +154,31 @@ a:hover {
 
     border: 3px solid #3882F6;
     border-radius: 10px;
+}
+
+/* Third section */
+.third-section {
+    background-color: #E5E7EB;
+
+    padding: 5% 20%;
+}
+
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color:#1F2937;
+
+    margin-bottom: 0;
+}
+
+.author {
+    font-size: 18px;
+    font-weight: 900;
+
+    margin-top: 0;
+
+    width: fit-content;
+    margin-left: auto;
 }
