@@ -1,3 +1,3 @@
-# The Odin Project - Foundations
-## Project: Landing Page
-The goal is to put in practice my knowledge on basic CSS and Flexbox
+# Landing page
+Project developed as part of The Odin Project Foundations Course.
+The goal is to put in practice knowledge on CSS properties, usage and specially Flexbox
